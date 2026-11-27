@@ -1,25 +1,71 @@
-# Agentris — Data Science (A26-CS193)
-Soto Batok & Penyetan Pak Tris.
+# Agentris · Data Science (A26-CS193)
+
+Analisis pencatatan transaksi Soto Batok & Penyetan Pak Tris.
+
+## Rumusan masalah dan pertanyaan bisnis
+
+Catatan uang masuk dan belanja Pak Tommy tersebar di beberapa catatan sehingga rekap periode tertentu perlu dihitung kembali. Tim menyusun lima pertanyaan untuk membantu Pak Tommy melihat kondisi pencatatan warung. [Agentris - Rumusan Masalah dan Pertanyaan Bisnis](https://docs.google.com/spreadsheets/d/1r84YzGIF4A3hbOdy_7r8MqazMyDEKU-fbrjmSFbH-Ps/edit#gid=970777601).
+
+| ID | Pertanyaan | Cara menghitung |
+| :--- | :--- | :--- |
+| PB-01 | Berapa pemasukan yang tercatat setiap bulan? | Jumlahkan subtotal tiap baris penjualan dalam bulan tersebut. |
+| PB-02 | Berapa pengeluaran yang tercatat setiap bulan? | Jumlahkan nominal catatan pengeluaran pada bulan yang sama. |
+| PB-03 | Berapa selisih tiap bulan? | Kurangi pengeluaran dari pemasukan dalam periode yang sama. |
+| PB-04 | Kapan jumlah transaksi penjualan tertinggi? | Hitung ID nota unik per tanggal dan tampilkan semua tanggal yang berbagi nilai tertinggi. |
+| PB-05 | Menu apa yang paling banyak terjual pada periode pilihan? | Jumlahkan unit terjual per menu pada bulan yang dipilih. |
+
+## Sumber dan hasil pembersihan data
+
+Data raw dan daftar referensi 23 menu berasal dari `Dataset_Agentris_RAW_Lengkap.zip`. Mufid membersihkan data simulasi penjualan dan pengeluaran untuk Agustus–Oktober 2026. Satu nota penjualan bisa berisi beberapa menu, sehingga jumlah baris penjualan berbeda dari jumlah nota.
+
+| Dataset sintetis | Baris awal | Duplikat dihapus | Baris dikarantina | Baris bersih |
+| :--- | ---: | ---: | ---: | ---: |
+| Penjualan | 2.694 | 43 | 78 | 2.573 |
+| Pengeluaran | 471 | 7 | 7 | 457 |
+
+Data bersih mencakup 1.148 nota penjualan dan 457 catatan pengeluaran. Laporan mencatat 26 pemeriksaan yang lulus, termasuk format tanggal, ID unik, kecocokan harga menu, dan kesesuaian subtotal dengan total nota. [Ringkasan cleaning](reports/cleaning_summary.csv) · [Laporan validasi](reports/validation_report.csv).
+
+Sumber primer terdiri dari 11 entri pemasukan dan 13 entri pengeluaran dari catatan WhatsApp, dengan total acuan masing-masing Rp285.000 dan Rp269.000. Tanggal lengkap dan rincian menu per penjualan belum cukup untuk rekap aktual pada periode yang sama. Data primer disimpan terpisah dari CSV simulasi.
+
+## Analisis dan rekomendasi untuk warung
+
+Tabel berikut merangkum hasil simulasi. Selisih menunjukkan uang masuk dikurangi uang keluar yang tercatat.
+
+| Bulan | Pemasukan | Pengeluaran | Selisih tercatat |
+| :--- | ---: | ---: | ---: |
+| Agustus 2026 | Rp9.193.000 | Rp3.879.000 | Rp5.314.000 |
+| September 2026 | Rp8.795.500 | Rp3.051.500 | Rp5.744.000 |
+| Oktober 2026 | Rp8.501.500 | Rp3.691.500 | Rp4.810.000 |
+
+Pada data uji, jumlah tertinggi adalah 20 nota sehari pada 7, 10, 11, dan 16 Oktober 2026. Pada bulan yang sama, soto ayam menempati posisi pertama dengan 115 unit terjual. Angka ini menjelaskan cara membaca rekap. Hasil penjualan warung perlu dihitung dari transaksi nyata yang lengkap.
+
+Saran untuk Pak Tommy adalah mencatat tanggal dan nominal pemasukan serta belanja secara rutin, menyimpan nama menu dan jumlahnya pada setiap nota, dan mencatat hari tutup. Setelah catatan nyata cukup lengkap, rekap menu dapat membantu menyiapkan stok bahan, sedangkan jumlah nota per hari bisa membantu menyusun jadwal persiapan. [Notebook analisis dan rekomendasi](notebooks/04_eda_analisis_dan_rekomendasi.ipynb).
 
 ## Cara menjalankan
-Ekstrak ZIP, buka folder proyek di VS Code/Jupyter. Buat virtual environment bila perlu, jalankan `pip install -r requirements.txt`, pilih kernel Python, kemudian buka notebook berurutan 01–04.
 
-- 01: collection & assessment, bisa langsung dijalankan.
-- 02: kerangka cleaning dengan TODO; pengguna mengisi solusi, mengaktifkan ekspor kandidat setelah selesai.
-- 03: pemeriksaan skema, nilai, harga, ID, subtotal, total dan rekonsiliasi; aktifkan review manual setelah mengecek log. Ekspor hanya ketika validasi lulus. Jika mengulang cleaning, jangan gunakan hasil processed lama sebelum validasi ulang.
-- 04: EDA lima pertanyaan bisnis, menggunakan hasil processed. Ubah BULAN pada PB-05 sesuai kebutuhan.
+Dari folder akar repo, aktifkan lingkungan Python dan pasang dependensi.
 
-## Dataset
-File CSV raw/reference disalin tanpa perubahan dari Dataset_Agentris_RAW_Lengkap.zip. Penjualan gabungan 2694 baris (9 kolom), pengeluaran sintetis 471, penjualan primer 11, pengeluaran primer 13, menu 23. Simulasi Agustus–Oktober 2026. Satu transaksi bisa memiliki beberapa item; total_transaksi berulang. Hitung pemasukan dari subtotal tervalidasi dan frekuensi transaksi dari ID unik.
+```bash
+python -m pip install -r data-science/requirements.txt
+```
 
-Data primer terpisah, jangan mengarang tanggal atau item yang hilang. Penjualan primer total acuan Rp285.000, pengeluaran primer Rp269.000 (konfirmasi skala ribuan). Jangan gunakan untuk rekap bulanan hingga tanggal lengkap terkonfirmasi. Data sintetis bukan data aktual. Tidak ada target machine learning/prediksi penjualan dalam pekerjaan ini.
+Buka folder `data-science/notebooks` di VS Code atau Jupyter. Pakai kernel dari lingkungan Python yang sama, lalu pilih Run All pada notebook 04. CSV bersih sudah tersedia di `datasets/processed`. Ubah `BULAN` untuk memilih bulan analisis menu.
 
-## Direktori
-- datasets/raw: data asli, jangan edit.
-- datasets/reference: daftar harga menu UMKM.
-- datasets/interim: kandidat cleaning, reject_log dan change_log.
-- datasets/processed: CSV yang lulus validasi (kosong saat diserahkan).
-- reports: ringkasan assessment, validasi, rekap dan grafik hasil EDA.
+| Notebook | Isi |
+| :--- | :--- |
+| [01 · Pengumpulan dan pemeriksaan awal](notebooks/01_data_collection_assessment.ipynb) | Sumber, struktur, dan keterbatasan data. |
+| [02 · Pembersihan dan transformasi](notebooks/02_data_cleaning_transformation.ipynb) | Normalisasi, penanganan duplikasi, dan ekspor kandidat. |
+| [03 · Validasi data](notebooks/03_data_validation.ipynb) | Pemeriksaan kandidat dan ekspor CSV yang lulus setelah verifikasi log perubahan dan karantina. |
+| [04 · Analisis dan rekomendasi](notebooks/04_eda_analisis_dan_rekomendasi.ipynb) | Lima pertanyaan bisnis, tiga grafik Seaborn, uji rekap, dan saran untuk warung. |
 
-## Acuan
-[Project Plan](https://docs.google.com/document/d/1UcQiyXj9haOqE3SA-vJlvonQcbb9T-EVeyxwEkJByoE/edit) · [Interview & Use Case](https://docs.google.com/document/d/1GBdc-kcfjPI32mygfm4fEtqxjs0U5G0uu0xoefymtIU/edit) · [Pertanyaan Bisnis](https://docs.google.com/spreadsheets/d/1r84YzGIF4A3hbOdy_7r8MqazMyDEKU-fbrjmSFbH-Ps/edit).
+Jalankan 01–03 berurutan jika ingin mengulang proses pengolahan data. Setelah mengubah data atau aturan pembersihan, periksa ulang laporan validasi sebelum memakai CSV hasilnya di notebook 04.
+
+## Direktori dan acuan
+
+- `datasets/raw` menyimpan catatan yang diterima dan data simulasi sebelum dibersihkan.
+- `datasets/reference` menyimpan daftar menu warung.
+- `datasets/interim` menyimpan kandidat, karantina, dan log perubahan.
+- `datasets/processed` menyimpan dua CSV simulasi yang telah lulus validasi.
+- `reports` menyimpan ringkasan pemeriksaan awal, pembersihan, dan validasi.
+
+[Project Plan](https://docs.google.com/document/d/1UcQiyXj9haOqE3SA-vJlvonQcbb9T-EVeyxwEkJByoE/edit?tab=t.dt3ov0qga5qj) · [Wawancara dan Use Case](https://docs.google.com/document/d/1GBdc-kcfjPI32mygfm4fEtqxjs0U5G0uu0xoefymtIU/edit?tab=t.zd0fojid3xfk) · [Asah Capstone Playbook](https://docs.google.com/document/d/1JeUlc-66WRNdwm8gQ1PQF1VZ8AArca48sI982I1Z00A/edit?tab=t.0)
