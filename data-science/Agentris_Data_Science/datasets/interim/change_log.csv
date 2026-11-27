@@ -1,0 +1,464 @@
+dataset,id,kolom,sebelum,sesudah,alasan
+penjualan_sintetis,PJ-00119,baris,"{""id_transaksi"":""PJ-00119"",""tanggal"":""2026-08-11"",""nama_pembeli"":""Pelanggan 012"",""jenis_makanan"":""Soto sapi"",""jumlah"":""1"",""harga_satuan"":""14000"",""subtotal"":""14000"",""id_detail"":""PJ-00119-01"",""total_transaksi"":""30000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-00119,baris,"{""id_transaksi"":""PJ-00119"",""tanggal"":""2026-08-11"",""nama_pembeli"":""Pelanggan 012"",""jenis_makanan"":""Soto ayam pisah"",""jumlah"":""1"",""harga_satuan"":""13000"",""subtotal"":""13000"",""id_detail"":""PJ-00119-02"",""total_transaksi"":""30000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-00119,baris,"{""id_transaksi"":""PJ-00119"",""tanggal"":""2026-08-11"",""nama_pembeli"":""Pelanggan 012"",""jenis_makanan"":""Teh es"",""jumlah"":""1"",""harga_satuan"":""3000"",""subtotal"":""3000"",""id_detail"":""PJ-00119-03"",""total_transaksi"":""30000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-00221,baris,"{""id_transaksi"":""PJ-00221"",""tanggal"":""2026-08-18"",""nama_pembeli"":""Pelanggan 005"",""jenis_makanan"":""Soto ayam pisah"",""jumlah"":""1"",""harga_satuan"":""13000"",""subtotal"":""13000"",""id_detail"":""PJ-00221-01"",""total_transaksi"":""55000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-00221,baris,"{""id_transaksi"":""PJ-00221"",""tanggal"":""2026-08-18"",""nama_pembeli"":""Pelanggan 005"",""jenis_makanan"":""Soto sapi pisah"",""jumlah"":""1"",""harga_satuan"":""16000"",""subtotal"":""16000"",""id_detail"":""PJ-00221-02"",""total_transaksi"":""55000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-00221,baris,"{""id_transaksi"":""PJ-00221"",""tanggal"":""2026-08-18"",""nama_pembeli"":""Pelanggan 005"",""jenis_makanan"":""Soto sapi"",""jumlah"":""1"",""harga_satuan"":""14000"",""subtotal"":""14000"",""id_detail"":""PJ-00221-03"",""total_transaksi"":""55000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-00221,baris,"{""id_transaksi"":""PJ-00221"",""tanggal"":""2026-08-18"",""nama_pembeli"":""Pelanggan 005"",""jenis_makanan"":""Teh es"",""jumlah"":""1"",""harga_satuan"":""3000"",""subtotal"":""3000"",""id_detail"":""PJ-00221-04"",""total_transaksi"":""55000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-00221,baris,"{""id_transaksi"":""PJ-00221"",""tanggal"":""2026-08-18"",""nama_pembeli"":""Pelanggan 005"",""jenis_makanan"":""Teh panas"",""jumlah"":""1"",""harga_satuan"":""3000"",""subtotal"":""3000"",""id_detail"":""PJ-00221-05"",""total_transaksi"":""55000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-00221,baris,"{""id_transaksi"":""PJ-00221"",""tanggal"":""2026-08-18"",""nama_pembeli"":""Pelanggan 005"",""jenis_makanan"":""Coklat strawberry"",""jumlah"":""1"",""harga_satuan"":""6000"",""subtotal"":""6000"",""id_detail"":""PJ-00221-06"",""total_transaksi"":""55000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-00288,baris,"{""id_transaksi"":""PJ-00288"",""tanggal"":""2026-08-23"",""nama_pembeli"":""Pelanggan 009"",""jenis_makanan"":""Soto ayam pisah"",""jumlah"":""1"",""harga_satuan"":""13000"",""subtotal"":""13000"",""id_detail"":""PJ-00288-01"",""total_transaksi"":""13000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-00336,baris,"{""id_transaksi"":""PJ-00336"",""tanggal"":""2026-08-26"",""nama_pembeli"":""Pelanggan 042"",""jenis_makanan"":""Soto sapi"",""jumlah"":""1"",""harga_satuan"":""14000"",""subtotal"":""14000"",""id_detail"":""PJ-00336-01"",""total_transaksi"":""14000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-00387,baris,"{""id_transaksi"":""PJ-00387"",""tanggal"":""2026-08-30"",""nama_pembeli"":""Pelanggan 109"",""jenis_makanan"":""Soto daging bungkus + nasi"",""jumlah"":""1"",""harga_satuan"":""17000"",""subtotal"":""17000"",""id_detail"":""PJ-00387-01"",""total_transaksi"":""20000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-00387,baris,"{""id_transaksi"":""PJ-00387"",""tanggal"":""2026-08-30"",""nama_pembeli"":""Pelanggan 109"",""jenis_makanan"":""Jeruk panas"",""jumlah"":""1"",""harga_satuan"":""3000"",""subtotal"":""3000"",""id_detail"":""PJ-00387-02"",""total_transaksi"":""20000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-00441,baris,"{""id_transaksi"":""PJ-00441"",""tanggal"":""2026-09-03"",""nama_pembeli"":""Pelanggan 177"",""jenis_makanan"":""Soto ayam"",""jumlah"":""1"",""harga_satuan"":""10000"",""subtotal"":""10000"",""id_detail"":""PJ-00441-01"",""total_transaksi"":""28000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-00441,baris,"{""id_transaksi"":""PJ-00441"",""tanggal"":""2026-09-03"",""nama_pembeli"":""Pelanggan 177"",""jenis_makanan"":""Nasi goreng telur"",""jumlah"":""1"",""harga_satuan"":""15000"",""subtotal"":""15000"",""id_detail"":""PJ-00441-02"",""total_transaksi"":""28000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-00441,baris,"{""id_transaksi"":""PJ-00441"",""tanggal"":""2026-09-03"",""nama_pembeli"":""Pelanggan 177"",""jenis_makanan"":""Teh es"",""jumlah"":""1"",""harga_satuan"":""3000"",""subtotal"":""3000"",""id_detail"":""PJ-00441-03"",""total_transaksi"":""28000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-00469,baris,"{""id_transaksi"":""PJ-00469"",""tanggal"":""2026-09-05"",""nama_pembeli"":""GoFood"",""jenis_makanan"":""Pecel lele"",""jumlah"":""1"",""harga_satuan"":""13000"",""subtotal"":""13000"",""id_detail"":""PJ-00469-01"",""total_transaksi"":""16000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-00469,baris,"{""id_transaksi"":""PJ-00469"",""tanggal"":""2026-09-05"",""nama_pembeli"":""GoFood"",""jenis_makanan"":""Teh panas"",""jumlah"":""1"",""harga_satuan"":""3000"",""subtotal"":""3000"",""id_detail"":""PJ-00469-02"",""total_transaksi"":""16000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-00650,baris,"{""id_transaksi"":""PJ-00650"",""tanggal"":""2026-09-19"",""nama_pembeli"":""Pelanggan 008"",""jenis_makanan"":""Pecel lele"",""jumlah"":""1"",""harga_satuan"":""13000"",""subtotal"":""13000"",""id_detail"":""PJ-00650-01"",""total_transaksi"":""16000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-00650,baris,"{""id_transaksi"":""PJ-00650"",""tanggal"":""2026-09-19"",""nama_pembeli"":""Pelanggan 008"",""jenis_makanan"":""Jeruk es"",""jumlah"":""1"",""harga_satuan"":""3000"",""subtotal"":""3000"",""id_detail"":""PJ-00650-02"",""total_transaksi"":""16000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-00714,baris,"{""id_transaksi"":""PJ-00714"",""tanggal"":""2026-09-26"",""nama_pembeli"":""Pembeli tanpa nama"",""jenis_makanan"":""Soto ayam"",""jumlah"":""1"",""harga_satuan"":""10000"",""subtotal"":""10000"",""id_detail"":""PJ-00714-01"",""total_transaksi"":""10000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-00768,baris,"{""id_transaksi"":""PJ-00768"",""tanggal"":""2026-09-29"",""nama_pembeli"":""Pelanggan 012"",""jenis_makanan"":""Soto sapi pisah"",""jumlah"":""1"",""harga_satuan"":""16000"",""subtotal"":""16000"",""id_detail"":""PJ-00768-01"",""total_transaksi"":""23000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-00768,baris,"{""id_transaksi"":""PJ-00768"",""tanggal"":""2026-09-29"",""nama_pembeli"":""Pelanggan 012"",""jenis_makanan"":""Choco crunchy"",""jumlah"":""1"",""harga_satuan"":""7000"",""subtotal"":""7000"",""id_detail"":""PJ-00768-02"",""total_transaksi"":""23000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-00799,baris,"{""id_transaksi"":""PJ-00799"",""tanggal"":""2026-10-01"",""nama_pembeli"":""Pelanggan 087"",""jenis_makanan"":""Soto ayam bungkus + nasi"",""jumlah"":""1"",""harga_satuan"":""12000"",""subtotal"":""12000"",""id_detail"":""PJ-00799-01"",""total_transaksi"":""44000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-00799,baris,"{""id_transaksi"":""PJ-00799"",""tanggal"":""2026-10-01"",""nama_pembeli"":""Pelanggan 087"",""jenis_makanan"":""Nasi goreng telur"",""jumlah"":""1"",""harga_satuan"":""15000"",""subtotal"":""15000"",""id_detail"":""PJ-00799-02"",""total_transaksi"":""44000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-00799,baris,"{""id_transaksi"":""PJ-00799"",""tanggal"":""2026-10-01"",""nama_pembeli"":""Pelanggan 087"",""jenis_makanan"":""Ayam sambal"",""jumlah"":""1"",""harga_satuan"":""17000"",""subtotal"":""17000"",""id_detail"":""PJ-00799-03"",""total_transaksi"":""44000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-00823,baris,"{""id_transaksi"":""PJ-00823"",""tanggal"":""2026-10-03"",""nama_pembeli"":""Pelanggan 075"",""jenis_makanan"":""Soto sapi"",""jumlah"":""1"",""harga_satuan"":""14000"",""subtotal"":""14000"",""id_detail"":""PJ-00823-01"",""total_transaksi"":""24000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-00823,baris,"{""id_transaksi"":""PJ-00823"",""tanggal"":""2026-10-03"",""nama_pembeli"":""Pelanggan 075"",""jenis_makanan"":""Soto ayam"",""jumlah"":""1"",""harga_satuan"":""10000"",""subtotal"":""10000"",""id_detail"":""PJ-00823-02"",""total_transaksi"":""24000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-00860,baris,"{""id_transaksi"":""PJ-00860"",""tanggal"":""2026-10-06"",""nama_pembeli"":""ShopeeFood"",""jenis_makanan"":""Ayam sambal"",""jumlah"":""1"",""harga_satuan"":""17000"",""subtotal"":""17000"",""id_detail"":""PJ-00860-01"",""total_transaksi"":""37000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-00860,baris,"{""id_transaksi"":""PJ-00860"",""tanggal"":""2026-10-06"",""nama_pembeli"":""ShopeeFood"",""jenis_makanan"":""Pecel lele"",""jumlah"":""1"",""harga_satuan"":""13000"",""subtotal"":""13000"",""id_detail"":""PJ-00860-02"",""total_transaksi"":""37000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-00860,baris,"{""id_transaksi"":""PJ-00860"",""tanggal"":""2026-10-06"",""nama_pembeli"":""ShopeeFood"",""jenis_makanan"":""Choco crunchy"",""jumlah"":""1"",""harga_satuan"":""7000"",""subtotal"":""7000"",""id_detail"":""PJ-00860-03"",""total_transaksi"":""37000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-00878,baris,"{""id_transaksi"":""PJ-00878"",""tanggal"":""2026-10-07"",""nama_pembeli"":""GoFood"",""jenis_makanan"":""Soto ayam"",""jumlah"":""1"",""harga_satuan"":""10000"",""subtotal"":""10000"",""id_detail"":""PJ-00878-01"",""total_transaksi"":""10000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-00890,baris,"{""id_transaksi"":""PJ-00890"",""tanggal"":""2026-10-07"",""nama_pembeli"":""Pelanggan 085"",""jenis_makanan"":""Pecel lele"",""jumlah"":""1"",""harga_satuan"":""13000"",""subtotal"":""13000"",""id_detail"":""PJ-00890-01"",""total_transaksi"":""20000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-00890,baris,"{""id_transaksi"":""PJ-00890"",""tanggal"":""2026-10-07"",""nama_pembeli"":""Pelanggan 085"",""jenis_makanan"":""Keju"",""jumlah"":""1"",""harga_satuan"":""7000"",""subtotal"":""7000"",""id_detail"":""PJ-00890-02"",""total_transaksi"":""20000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-01083,baris,"{""id_transaksi"":""PJ-01083"",""tanggal"":""2026-10-23"",""nama_pembeli"":""Pelanggan 001"",""jenis_makanan"":""Choco crunchy"",""jumlah"":""1"",""harga_satuan"":""7000"",""subtotal"":""7000"",""id_detail"":""PJ-01083-01"",""total_transaksi"":""20000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-01083,baris,"{""id_transaksi"":""PJ-01083"",""tanggal"":""2026-10-23"",""nama_pembeli"":""Pelanggan 001"",""jenis_makanan"":""Coklat strawberry"",""jumlah"":""1"",""harga_satuan"":""6000"",""subtotal"":""6000"",""id_detail"":""PJ-01083-02"",""total_transaksi"":""20000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-01083,baris,"{""id_transaksi"":""PJ-01083"",""tanggal"":""2026-10-23"",""nama_pembeli"":""Pelanggan 001"",""jenis_makanan"":""Keju"",""jumlah"":""1"",""harga_satuan"":""7000"",""subtotal"":""7000"",""id_detail"":""PJ-01083-03"",""total_transaksi"":""20000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-01111,baris,"{""id_transaksi"":""PJ-01111"",""tanggal"":""2026-10-25"",""nama_pembeli"":""Pelanggan 052"",""jenis_makanan"":""Ayam sambal"",""jumlah"":""1"",""harga_satuan"":""17000"",""subtotal"":""17000"",""id_detail"":""PJ-01111-01"",""total_transaksi"":""20000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-01111,baris,"{""id_transaksi"":""PJ-01111"",""tanggal"":""2026-10-25"",""nama_pembeli"":""Pelanggan 052"",""jenis_makanan"":""Jeruk es"",""jumlah"":""1"",""harga_satuan"":""3000"",""subtotal"":""3000"",""id_detail"":""PJ-01111-02"",""total_transaksi"":""20000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-01112,baris,"{""id_transaksi"":""PJ-01112"",""tanggal"":""2026-10-25"",""nama_pembeli"":""Pelanggan 172"",""jenis_makanan"":""Pecel lele"",""jumlah"":""1"",""harga_satuan"":""13000"",""subtotal"":""13000"",""id_detail"":""PJ-01112-01"",""total_transaksi"":""16000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-01112,baris,"{""id_transaksi"":""PJ-01112"",""tanggal"":""2026-10-25"",""nama_pembeli"":""Pelanggan 172"",""jenis_makanan"":""Jeruk es"",""jumlah"":""1"",""harga_satuan"":""3000"",""subtotal"":""3000"",""id_detail"":""PJ-01112-02"",""total_transaksi"":""16000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-01142,baris,"{""id_transaksi"":""PJ-01142"",""tanggal"":""2026-10-28"",""nama_pembeli"":""ShopeeFood"",""jenis_makanan"":""Soto sapi"",""jumlah"":""1"",""harga_satuan"":""14000"",""subtotal"":""14000"",""id_detail"":""PJ-01142-01"",""total_transaksi"":""17000""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-01142,baris,"{""id_transaksi"":""PJ-01142"",""tanggal"":""2026-10-28"",""nama_pembeli"":""ShopeeFood"",""jenis_makanan"":""Teh es"",""jumlah"":""1"",""harga_satuan"":""3000"",""subtotal"":""3000"",""id_detail"":""PJ-01142-02"",""total_transaksi"":""17000""}",,Duplikat identik; satu salinan dipertahankan
+pengeluaran_sintetis,PG-00014,baris,"{""no"":""PG-00014"",""tanggal"":""2026-08-03"",""keterangan"":""Parkir"",""total"":""2500""}",,Duplikat identik; satu salinan dipertahankan
+pengeluaran_sintetis,PG-00050,baris,"{""no"":""PG-00050"",""tanggal"":""2026-08-10"",""keterangan"":""Ayam"",""total"":""56500""}",,Duplikat identik; satu salinan dipertahankan
+pengeluaran_sintetis,PG-00178,baris,"{""no"":""PG-00178"",""tanggal"":""2026-09-07"",""keterangan"":""Sapi"",""total"":""64500""}",,Duplikat identik; satu salinan dipertahankan
+pengeluaran_sintetis,PG-00202,baris,"{""no"":""PG-00202"",""tanggal"":""2026-09-12"",""keterangan"":""Jeruk"",""total"":""15500""}",,Duplikat identik; satu salinan dipertahankan
+pengeluaran_sintetis,PG-00215,baris,"{""no"":""PG-00215"",""tanggal"":""2026-09-14"",""keterangan"":""Nila"",""total"":""21500""}",,Duplikat identik; satu salinan dipertahankan
+pengeluaran_sintetis,PG-00355,baris,"{""no"":""PG-00355"",""tanggal"":""2026-10-11"",""keterangan"":""Sapi"",""total"":""73500""}",,Duplikat identik; satu salinan dipertahankan
+pengeluaran_sintetis,PG-00382,baris,"{""no"":""PG-00382"",""tanggal"":""2026-10-16"",""keterangan"":""Sapi"",""total"":""64500""}",,Duplikat identik; satu salinan dipertahankan
+penjualan_sintetis,PJ-00022,total_transaksi,0,40000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00022,total_transaksi,0,40000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00022,total_transaksi,0,40000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00022,total_transaksi,0,40000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00024,tanggal,2026/08/03,2026-08-03,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00031,tanggal,03/08/2026,2026-08-03,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00035,subtotal,8000,7000,Hitung ulang jumlah × harga referensi
+penjualan_sintetis,PJ-00039,subtotal,7000,6000,Hitung ulang jumlah × harga referensi
+penjualan_sintetis,PJ-00041,nama_pembeli,  shopeefood ,ShopeeFood,Standardisasi atau label anonim
+penjualan_sintetis,PJ-00041,nama_pembeli,  shopeefood ,ShopeeFood,Standardisasi atau label anonim
+penjualan_sintetis,PJ-00041,nama_pembeli,  shopeefood ,ShopeeFood,Standardisasi atau label anonim
+penjualan_sintetis,PJ-00041,nama_pembeli,  shopeefood ,ShopeeFood,Standardisasi atau label anonim
+penjualan_sintetis,PJ-00041,nama_pembeli,  shopeefood ,ShopeeFood,Standardisasi atau label anonim
+penjualan_sintetis,PJ-00041,nama_pembeli,  shopeefood ,ShopeeFood,Standardisasi atau label anonim
+penjualan_sintetis,PJ-00042,harga_satuan,Rp 17.000,17000,Harga referensi menu untuk simulasi
+penjualan_sintetis,PJ-00043,total_transaksi,Rp 13.000,13000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00058,nama_pembeli,  pelanggan 014 ,Pelanggan 014,Standardisasi atau label anonim
+penjualan_sintetis,PJ-00066,tanggal,07-08-2026,2026-08-07,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00066,tanggal,07-08-2026,2026-08-07,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00066,tanggal,07-08-2026,2026-08-07,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00069,tanggal,08/08/2026,2026-08-08,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00069,tanggal,08/08/2026,2026-08-08,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00069,tanggal,08/08/2026,2026-08-08,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00069,tanggal,08/08/2026,2026-08-08,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00072,total_transaksi,17 rb,17000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00072,total_transaksi,17 rb,17000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00083,total_transaksi,Rp 36.000,36000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00083,total_transaksi,Rp 36.000,36000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00083,total_transaksi,Rp 36.000,36000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00083,total_transaksi,Rp 36.000,36000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00093,total_transaksi,-19000,19000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00093,total_transaksi,-19000,19000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00095,total_transaksi,20.000,20000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00101,tanggal,10-08-2026,2026-08-10,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00101,tanggal,10-08-2026,2026-08-10,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00102,nama_pembeli,  shopeefood ,ShopeeFood,Standardisasi atau label anonim
+penjualan_sintetis,PJ-00107,total_transaksi,13 rb,13000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00114,tanggal,11 Agu 2026,2026-08-11,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00123,tanggal,12-08-2026,2026-08-12,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00123,tanggal,12-08-2026,2026-08-12,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00130,total_transaksi,29.000,29000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00130,total_transaksi,29.000,29000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00135,nama_pembeli,  shopeefood ,ShopeeFood,Standardisasi atau label anonim
+penjualan_sintetis,PJ-00136,subtotal,16000,15000,Hitung ulang jumlah × harga referensi
+penjualan_sintetis,PJ-00138,tanggal,2026/08/13,2026-08-13,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00138,tanggal,2026/08/13,2026-08-13,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00138,tanggal,2026/08/13,2026-08-13,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00138,tanggal,2026/08/13,2026-08-13,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00138,tanggal,2026/08/13,2026-08-13,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00139,total_transaksi,Rp 20.000,20000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00144,total_transaksi, 16000 ,16000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00144,total_transaksi, 16000 ,16000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00145,total_transaksi,18 rb,18000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00145,total_transaksi,18 rb,18000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00152,jenis_makanan,  Choco crunchy  ,Choco crunchy,Nama baku dari referensi menu
+penjualan_sintetis,PJ-00158,subtotal,6.000,6000,Hitung ulang jumlah × harga referensi
+penjualan_sintetis,PJ-00160,tanggal,2026/08/14,2026-08-14,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00160,tanggal,2026/08/14,2026-08-14,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00160,tanggal,2026/08/14,2026-08-14,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00162,jumlah,,1,Pulihkan dari subtotal / harga referensi jika jumlah tidak valid
+penjualan_sintetis,PJ-00175,tanggal,15 Agu 2026,2026-08-15,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00184,jenis_makanan,  Soto daging bungkus + nasi  ,Soto daging bungkus + nasi,Nama baku dari referensi menu
+penjualan_sintetis,PJ-00189,total_transaksi,32 rb,32000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00189,total_transaksi,32 rb,32000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00201,total_transaksi,32.000,32000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00201,total_transaksi,32.000,32000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00201,total_transaksi,32.000,32000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00201,total_transaksi,32.000,32000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00205,jenis_makanan,NASI GORENG TELUR,Nasi goreng telur,Nama baku dari referensi menu
+penjualan_sintetis,PJ-00207,total_transaksi,19 rb,19000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00207,total_transaksi,19 rb,19000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00210,tanggal,17-08-2026,2026-08-17,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00219,tanggal,18/08/2026,2026-08-18,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00219,tanggal,18/08/2026,2026-08-18,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00219,tanggal,18/08/2026,2026-08-18,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00219,tanggal,18/08/2026,2026-08-18,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00223,jumlah,0,1,Pulihkan dari subtotal / harga referensi jika jumlah tidak valid
+penjualan_sintetis,PJ-00227,total_transaksi,0,14000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00230,total_transaksi,16 rb,16000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00230,total_transaksi,16 rb,16000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00233,tanggal,19 Agu 2026,2026-08-19,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00233,tanggal,19 Agu 2026,2026-08-19,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00241,total_transaksi,10.000,10000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00257,jenis_makanan,  Pecel lele  ,Pecel lele,Nama baku dari referensi menu
+penjualan_sintetis,PJ-00260,total_transaksi, 29000 ,29000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00260,total_transaksi, 29000 ,29000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00260,total_transaksi, 29000 ,29000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00270,subtotal,4000,3000,Hitung ulang jumlah × harga referensi
+penjualan_sintetis,PJ-00282,jumlah,,1,Pulihkan dari subtotal / harga referensi jika jumlah tidak valid
+penjualan_sintetis,PJ-00284,tanggal,22-08-2026,2026-08-22,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00284,harga_satuan,Rp 20.000,20000,Harga referensi menu untuk simulasi
+penjualan_sintetis,PJ-00284,tanggal,22-08-2026,2026-08-22,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00289,tanggal,23/08/2026,2026-08-23,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00296,subtotal,14000,13000,Hitung ulang jumlah × harga referensi
+penjualan_sintetis,PJ-00314,tanggal,24/08/2026,2026-08-24,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00314,tanggal,24/08/2026,2026-08-24,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00314,tanggal,24/08/2026,2026-08-24,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00317,total_transaksi,Rp 10.000,10000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00320,harga_satuan,Rp 10.000,10000,Harga referensi menu untuk simulasi
+penjualan_sintetis,PJ-00335,subtotal,6.000,6000,Hitung ulang jumlah × harga referensi
+penjualan_sintetis,PJ-00353,nama_pembeli,  gofood ,GoFood,Standardisasi atau label anonim
+penjualan_sintetis,PJ-00354,total_transaksi, 6000 ,6000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00358,total_transaksi, 67000 ,67000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00358,total_transaksi, 67000 ,67000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00358,total_transaksi, 67000 ,67000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00358,total_transaksi, 67000 ,67000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00358,total_transaksi, 67000 ,67000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00358,total_transaksi, 67000 ,67000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00359,tanggal,28/08/2026,2026-08-28,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00366,total_transaksi,23 rb,23000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00366,total_transaksi,23 rb,23000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00372,total_transaksi,23 rb,23000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00372,total_transaksi,23 rb,23000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00372,total_transaksi,23 rb,23000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00373,total_transaksi, 33000 ,33000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00373,total_transaksi, 33000 ,33000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00373,jumlah,,1,Pulihkan dari subtotal / harga referensi jika jumlah tidak valid
+penjualan_sintetis,PJ-00373,total_transaksi, 33000 ,33000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00384,harga_satuan,Rp 20.000,20000,Harga referensi menu untuk simulasi
+penjualan_sintetis,PJ-00389,jumlah,,1,Pulihkan dari subtotal / harga referensi jika jumlah tidak valid
+penjualan_sintetis,PJ-00394,harga_satuan,Rp 3.000,3000,Harga referensi menu untuk simulasi
+penjualan_sintetis,PJ-00401,tanggal,31 Agu 2026,2026-08-31,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00401,tanggal,31 Agu 2026,2026-08-31,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00401,subtotal,17000,16000,Hitung ulang jumlah × harga referensi
+penjualan_sintetis,PJ-00401,tanggal,31 Agu 2026,2026-08-31,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00417,harga_satuan,Rp 17.000,17000,Harga referensi menu untuk simulasi
+penjualan_sintetis,PJ-00418,total_transaksi, 16000 ,16000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00418,total_transaksi, 16000 ,16000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00420,total_transaksi,Rp 16.000,16000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00420,total_transaksi,Rp 16.000,16000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00428,tanggal,2 Sep 2026,2026-09-02,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00429,harga_satuan,,7000,Harga referensi menu untuk simulasi
+penjualan_sintetis,PJ-00430,subtotal,12.000,12000,Hitung ulang jumlah × harga referensi
+penjualan_sintetis,PJ-00434,total_transaksi,Rp 10.000,10000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00440,total_transaksi, 17000 ,17000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00448,total_transaksi,44.000,44000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00448,total_transaksi,44.000,44000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00448,total_transaksi,44.000,44000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00448,total_transaksi,44.000,44000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00454,tanggal,04/09/2026,2026-09-04,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00456,tanggal,04/09/2026,2026-09-04,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00456,tanggal,04/09/2026,2026-09-04,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00456,tanggal,04/09/2026,2026-09-04,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00456,tanggal,04/09/2026,2026-09-04,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00460,tanggal,04/09/2026,2026-09-04,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00464,total_transaksi,0,16000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00464,total_transaksi,0,16000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00475,subtotal,20.000,20000,Hitung ulang jumlah × harga referensi
+penjualan_sintetis,PJ-00484,total_transaksi, 15000 ,15000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00491,jenis_makanan,AYAM SAMBAL,Ayam sambal,Nama baku dari referensi menu
+penjualan_sintetis,PJ-00494,tanggal,06/09/2026,2026-09-06,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00494,tanggal,06/09/2026,2026-09-06,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00495,harga_satuan,Rp 3.000,3000,Harga referensi menu untuk simulasi
+penjualan_sintetis,PJ-00512,harga_satuan,Rp 17.000,17000,Harga referensi menu untuk simulasi
+penjualan_sintetis,PJ-00516,jenis_makanan,  Jeruk es  ,Jeruk es,Nama baku dari referensi menu
+penjualan_sintetis,PJ-00517,subtotal,6.000,6000,Hitung ulang jumlah × harga referensi
+penjualan_sintetis,PJ-00528,total_transaksi,-17000,17000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00531,total_transaksi,-10000,10000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00535,total_transaksi, 26000 ,26000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00535,total_transaksi, 26000 ,26000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00543,harga_satuan,Rp 6.000,6000,Harga referensi menu untuk simulasi
+penjualan_sintetis,PJ-00546,tanggal,10-09-2026,2026-09-10,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00565,jumlah,,1,Pulihkan dari subtotal / harga referensi jika jumlah tidak valid
+penjualan_sintetis,PJ-00569,harga_satuan,Rp 20.000,20000,Harga referensi menu untuk simulasi
+penjualan_sintetis,PJ-00573,tanggal,12/09/2026,2026-09-12,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00573,tanggal,12/09/2026,2026-09-12,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00590,subtotal,3.000,3000,Hitung ulang jumlah × harga referensi
+penjualan_sintetis,PJ-00598,jenis_makanan,AYAM SAMBAL,Ayam sambal,Nama baku dari referensi menu
+penjualan_sintetis,PJ-00598,jenis_makanan,NASI GORENG TELUR,Nasi goreng telur,Nama baku dari referensi menu
+penjualan_sintetis,PJ-00598,jenis_makanan,TEH ES,Teh es,Nama baku dari referensi menu
+penjualan_sintetis,PJ-00605,jumlah,,1,Pulihkan dari subtotal / harga referensi jika jumlah tidak valid
+penjualan_sintetis,PJ-00607,total_transaksi,19 rb,19000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00607,total_transaksi,19 rb,19000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00608,subtotal,10.000,10000,Hitung ulang jumlah × harga referensi
+penjualan_sintetis,PJ-00613,total_transaksi, 16000 ,16000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00613,total_transaksi, 16000 ,16000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00621,harga_satuan,,3000,Harga referensi menu untuk simulasi
+penjualan_sintetis,PJ-00629,subtotal,17.000,17000,Hitung ulang jumlah × harga referensi
+penjualan_sintetis,PJ-00633,tanggal,18-09-2026,2026-09-18,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00633,tanggal,18-09-2026,2026-09-18,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00633,tanggal,18-09-2026,2026-09-18,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00647,total_transaksi,19 rb,19000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00647,subtotal,6.000,6000,Hitung ulang jumlah × harga referensi
+penjualan_sintetis,PJ-00647,total_transaksi,19 rb,19000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00648,tanggal,19/09/2026,2026-09-19,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00651,subtotal,15000,14000,Hitung ulang jumlah × harga referensi
+penjualan_sintetis,PJ-00660,nama_pembeli,  pelanggan 077 ,Pelanggan 077,Standardisasi atau label anonim
+penjualan_sintetis,PJ-00660,nama_pembeli,  pelanggan 077 ,Pelanggan 077,Standardisasi atau label anonim
+penjualan_sintetis,PJ-00665,jenis_makanan,  Soto ayam  ,Soto ayam,Nama baku dari referensi menu
+penjualan_sintetis,PJ-00667,jenis_makanan,NASI GORENG TELUR,Nasi goreng telur,Nama baku dari referensi menu
+penjualan_sintetis,PJ-00667,jenis_makanan,JERUK PANAS,Jeruk panas,Nama baku dari referensi menu
+penjualan_sintetis,PJ-00669,tanggal,2026/09/21,2026-09-21,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00669,tanggal,2026/09/21,2026-09-21,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00677,tanggal,2026/09/22,2026-09-22,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00678,jenis_makanan,  Nasi goreng teri hijau  ,Nasi goreng teri hijau,Nama baku dari referensi menu
+penjualan_sintetis,PJ-00694,nama_pembeli,  pelanggan 110 ,Pelanggan 110,Standardisasi atau label anonim
+penjualan_sintetis,PJ-00694,nama_pembeli,  pelanggan 110 ,Pelanggan 110,Standardisasi atau label anonim
+penjualan_sintetis,PJ-00697,jumlah,,1,Pulihkan dari subtotal / harga referensi jika jumlah tidak valid
+penjualan_sintetis,PJ-00704,total_transaksi,20 rb,20000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00704,total_transaksi,20 rb,20000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00717,total_transaksi,Rp 28.000,28000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00717,total_transaksi,Rp 28.000,28000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00717,total_transaksi,Rp 28.000,28000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00718,tanggal,26-09-2026,2026-09-26,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00720,total_transaksi,14.000,14000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00722,nama_pembeli,  pelanggan 042 ,Pelanggan 042,Standardisasi atau label anonim
+penjualan_sintetis,PJ-00724,subtotal,14000,13000,Hitung ulang jumlah × harga referensi
+penjualan_sintetis,PJ-00728,nama_pembeli,  pembeli tanpa nama ,Pembeli tanpa nama,Standardisasi atau label anonim
+penjualan_sintetis,PJ-00735,total_transaksi,24 rb,24000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00735,total_transaksi,24 rb,24000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00749,total_transaksi, 3000 ,3000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00751,tanggal,2026/09/28,2026-09-28,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00762,total_transaksi, 51000 ,51000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00762,total_transaksi, 51000 ,51000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00762,total_transaksi, 51000 ,51000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00762,total_transaksi, 51000 ,51000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00762,total_transaksi, 51000 ,51000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00773,jumlah,0,1,Pulihkan dari subtotal / harga referensi jika jumlah tidak valid
+penjualan_sintetis,PJ-00776,tanggal,30-09-2026,2026-09-30,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00780,subtotal,3.000,3000,Hitung ulang jumlah × harga referensi
+penjualan_sintetis,PJ-00783,tanggal,30/09/2026,2026-09-30,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00791,jumlah,0,1,Pulihkan dari subtotal / harga referensi jika jumlah tidak valid
+penjualan_sintetis,PJ-00793,subtotal,14000,13000,Hitung ulang jumlah × harga referensi
+penjualan_sintetis,PJ-00804,nama_pembeli,  pelanggan 018 ,Pelanggan 018,Standardisasi atau label anonim
+penjualan_sintetis,PJ-00804,nama_pembeli,  pelanggan 018 ,Pelanggan 018,Standardisasi atau label anonim
+penjualan_sintetis,PJ-00809,total_transaksi,19.000,19000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00809,total_transaksi,19.000,19000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00814,total_transaksi,0,56000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00814,total_transaksi,0,56000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00814,total_transaksi,0,56000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00814,total_transaksi,0,56000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00814,total_transaksi,0,56000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00816,total_transaksi,12.000,12000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00816,total_transaksi,12.000,12000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00818,total_transaksi,56 rb,56000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00818,total_transaksi,56 rb,56000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00818,total_transaksi,56 rb,56000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00818,total_transaksi,56 rb,56000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00818,harga_satuan,Rp 7.000,7000,Harga referensi menu untuk simulasi
+penjualan_sintetis,PJ-00818,total_transaksi,56 rb,56000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00818,total_transaksi,56 rb,56000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00831,total_transaksi,27 rb,27000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00831,total_transaksi,27 rb,27000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00840,harga_satuan,Rp 12.000,12000,Harga referensi menu untuk simulasi
+penjualan_sintetis,PJ-00843,total_transaksi,29 rb,29000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00843,total_transaksi,29 rb,29000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00843,total_transaksi,29 rb,29000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00865,jenis_makanan,  Jeruk es  ,Jeruk es,Nama baku dari referensi menu
+penjualan_sintetis,PJ-00869,jenis_makanan,  Nasi goreng telur  ,Nasi goreng telur,Nama baku dari referensi menu
+penjualan_sintetis,PJ-00870,total_transaksi,36000,26000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00870,total_transaksi,36000,26000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00870,total_transaksi,36000,26000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00877,nama_pembeli,  pelanggan 022 ,Pelanggan 022,Standardisasi atau label anonim
+penjualan_sintetis,PJ-00883,total_transaksi,Rp 18.000,18000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00883,total_transaksi,Rp 18.000,18000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00883,total_transaksi,Rp 18.000,18000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00885,harga_satuan,Rp 12.000,12000,Harga referensi menu untuk simulasi
+penjualan_sintetis,PJ-00893,harga_satuan,,14000,Harga referensi menu untuk simulasi
+penjualan_sintetis,PJ-00895,nama_pembeli,,Pembeli tanpa nama,Standardisasi atau label anonim
+penjualan_sintetis,PJ-00895,nama_pembeli,,Pembeli tanpa nama,Standardisasi atau label anonim
+penjualan_sintetis,PJ-00898,jenis_makanan,  Choco crunchy  ,Choco crunchy,Nama baku dari referensi menu
+penjualan_sintetis,PJ-00902,jumlah,,1,Pulihkan dari subtotal / harga referensi jika jumlah tidak valid
+penjualan_sintetis,PJ-00907,total_transaksi,30 rb,30000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00907,harga_satuan,Rp 10.000,10000,Harga referensi menu untuk simulasi
+penjualan_sintetis,PJ-00907,total_transaksi,30 rb,30000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00907,total_transaksi,30 rb,30000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00908,jumlah,,1,Pulihkan dari subtotal / harga referensi jika jumlah tidak valid
+penjualan_sintetis,PJ-00938,jenis_makanan,NILA SAMBAL,Nila sambal,Nama baku dari referensi menu
+penjualan_sintetis,PJ-00938,jenis_makanan,JERUK ES,Jeruk es,Nama baku dari referensi menu
+penjualan_sintetis,PJ-00938,jenis_makanan,MESES KLASIK,Meses klasik,Nama baku dari referensi menu
+penjualan_sintetis,PJ-00939,subtotal,7.000,7000,Hitung ulang jumlah × harga referensi
+penjualan_sintetis,PJ-00949,total_transaksi,,13000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00951,harga_satuan,Rp 17.000,17000,Harga referensi menu untuk simulasi
+penjualan_sintetis,PJ-00955,tanggal,11/10/2026,2026-10-11,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00958,total_transaksi,20.000,20000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00960,nama_pembeli,,Pembeli tanpa nama,Standardisasi atau label anonim
+penjualan_sintetis,PJ-00960,nama_pembeli,,Pembeli tanpa nama,Standardisasi atau label anonim
+penjualan_sintetis,PJ-00963,tanggal,2026/10/12,2026-10-12,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00963,tanggal,2026/10/12,2026-10-12,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00971,total_transaksi,3.000,3000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-00985,tanggal,2026/10/15,2026-10-15,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00985,tanggal,2026/10/15,2026-10-15,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-00990,harga_satuan,Rp 13.000,13000,Harga referensi menu untuk simulasi
+penjualan_sintetis,PJ-00991,jumlah,,1,Pulihkan dari subtotal / harga referensi jika jumlah tidak valid
+penjualan_sintetis,PJ-01002,harga_satuan,,10000,Harga referensi menu untuk simulasi
+penjualan_sintetis,PJ-01004,total_transaksi,Rp 13.000,13000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-01004,total_transaksi,Rp 13.000,13000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-01007,subtotal,3.000,3000,Hitung ulang jumlah × harga referensi
+penjualan_sintetis,PJ-01010,total_transaksi,17.000,17000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-01010,total_transaksi,17.000,17000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-01013,harga_satuan,Rp 14.000,14000,Harga referensi menu untuk simulasi
+penjualan_sintetis,PJ-01014,harga_satuan,Rp 3.000,3000,Harga referensi menu untuk simulasi
+penjualan_sintetis,PJ-01015,subtotal,10.000,10000,Hitung ulang jumlah × harga referensi
+penjualan_sintetis,PJ-01018,jumlah,0,1,Pulihkan dari subtotal / harga referensi jika jumlah tidak valid
+penjualan_sintetis,PJ-01020,total_transaksi,14.000,14000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-01022,harga_satuan,Rp 3.000,3000,Harga referensi menu untuk simulasi
+penjualan_sintetis,PJ-01023,total_transaksi, 29000 ,29000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-01023,total_transaksi, 29000 ,29000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-01024,total_transaksi,23000,13000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-01024,total_transaksi,23000,13000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-01031,total_transaksi,45.000,45000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-01031,total_transaksi,45.000,45000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-01031,total_transaksi,45.000,45000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-01031,total_transaksi,45.000,45000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-01050,tanggal,19/10/2026,2026-10-19,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-01050,tanggal,19/10/2026,2026-10-19,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-01058,subtotal,17.000,17000,Hitung ulang jumlah × harga referensi
+penjualan_sintetis,PJ-01063,subtotal,4000,3000,Hitung ulang jumlah × harga referensi
+penjualan_sintetis,PJ-01064,total_transaksi,Rp 33.000,33000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-01064,total_transaksi,Rp 33.000,33000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-01064,total_transaksi,Rp 33.000,33000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-01087,jumlah,0,1,Pulihkan dari subtotal / harga referensi jika jumlah tidak valid
+penjualan_sintetis,PJ-01089,nama_pembeli,  pelanggan 008 ,Pelanggan 008,Standardisasi atau label anonim
+penjualan_sintetis,PJ-01089,nama_pembeli,  pelanggan 008 ,Pelanggan 008,Standardisasi atau label anonim
+penjualan_sintetis,PJ-01089,nama_pembeli,  pelanggan 008 ,Pelanggan 008,Standardisasi atau label anonim
+penjualan_sintetis,PJ-01093,harga_satuan,Rp 3.000,3000,Harga referensi menu untuk simulasi
+penjualan_sintetis,PJ-01099,tanggal,24 Okt 2026,2026-10-24,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-01105,harga_satuan,,10000,Harga referensi menu untuk simulasi
+penjualan_sintetis,PJ-01108,nama_pembeli,  shopeefood ,ShopeeFood,Standardisasi atau label anonim
+penjualan_sintetis,PJ-01121,jenis_makanan,  Soto ayam  ,Soto ayam,Nama baku dari referensi menu
+penjualan_sintetis,PJ-01146,nama_pembeli,  shopeefood ,ShopeeFood,Standardisasi atau label anonim
+penjualan_sintetis,PJ-01146,nama_pembeli,  shopeefood ,ShopeeFood,Standardisasi atau label anonim
+penjualan_sintetis,PJ-01148,tanggal,29/10/2026,2026-10-29,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-01148,tanggal,29/10/2026,2026-10-29,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-01152,nama_pembeli,,Pembeli tanpa nama,Standardisasi atau label anonim
+penjualan_sintetis,PJ-01152,nama_pembeli,,Pembeli tanpa nama,Standardisasi atau label anonim
+penjualan_sintetis,PJ-01153,tanggal,29/10/2026,2026-10-29,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-01160,tanggal,2026/10/30,2026-10-30,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-01160,tanggal,2026/10/30,2026-10-30,Format ISO atau tanggal konsisten dari ID yang sama
+penjualan_sintetis,PJ-01172,total_transaksi,33 rb,33000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-01172,total_transaksi,33 rb,33000,Hitung ulang seluruh subtotal dalam ID transaksi
+penjualan_sintetis,PJ-01172,total_transaksi,33 rb,33000,Hitung ulang seluruh subtotal dalam ID transaksi
+pengeluaran_sintetis,PG-00001,keterangan, bumbu racik  ,Bumbu racik,Standardisasi atau label Tidak tercatat
+pengeluaran_sintetis,PG-00012,tanggal,03/08/2026,2026-08-03,Normalisasi format
+pengeluaran_sintetis,PG-00015,keterangan, sayuran  ,Sayuran,Standardisasi atau label Tidak tercatat
+pengeluaran_sintetis,PG-00016,keterangan, nila  ,Nila,Standardisasi atau label Tidak tercatat
+pengeluaran_sintetis,PG-00027,keterangan,,Tidak tercatat,Standardisasi atau label Tidak tercatat
+pengeluaran_sintetis,PG-00036,keterangan, ayam  ,Ayam,Standardisasi atau label Tidak tercatat
+pengeluaran_sintetis,PG-00046,keterangan, sayuran  ,Sayuran,Standardisasi atau label Tidak tercatat
+pengeluaran_sintetis,PG-00049,keterangan, jeruk  ,Jeruk,Standardisasi atau label Tidak tercatat
+pengeluaran_sintetis,PG-00054,total,1 rb,1000,Konversi integer Rupiah
+pengeluaran_sintetis,PG-00063,total,Rp 28.500,28500,Konversi integer Rupiah
+pengeluaran_sintetis,PG-00080,tanggal,16/08/2026,2026-08-16,Normalisasi format
+pengeluaran_sintetis,PG-00084,keterangan, bahan donat  ,Bahan donat,Standardisasi atau label Tidak tercatat
+pengeluaran_sintetis,PG-00113,tanggal,23 Agu 2026,2026-08-23,Normalisasi format
+pengeluaran_sintetis,PG-00130,tanggal,27 Agu 2026,2026-08-27,Normalisasi format
+pengeluaran_sintetis,PG-00137,total,37.5 rb,37500,Konversi integer Rupiah
+pengeluaran_sintetis,PG-00164,keterangan,,Tidak tercatat,Standardisasi atau label Tidak tercatat
+pengeluaran_sintetis,PG-00169,keterangan, sapi  ,Sapi,Standardisasi atau label Tidak tercatat
+pengeluaran_sintetis,PG-00201,tanggal,12 Sep 2026,2026-09-12,Normalisasi format
+pengeluaran_sintetis,PG-00205,tanggal,12/09/2026,2026-09-12,Normalisasi format
+pengeluaran_sintetis,PG-00206,tanggal,12/09/2026,2026-09-12,Normalisasi format
+pengeluaran_sintetis,PG-00211,keterangan,,Tidak tercatat,Standardisasi atau label Tidak tercatat
+pengeluaran_sintetis,PG-00213,total,Rp 61.000,61000,Konversi integer Rupiah
+pengeluaran_sintetis,PG-00214,total, 30500 ,30500,Konversi integer Rupiah
+pengeluaran_sintetis,PG-00221,tanggal,15-09-2026,2026-09-15,Normalisasi format
+pengeluaran_sintetis,PG-00222,keterangan, sayuran  ,Sayuran,Standardisasi atau label Tidak tercatat
+pengeluaran_sintetis,PG-00248,keterangan,,Tidak tercatat,Standardisasi atau label Tidak tercatat
+pengeluaran_sintetis,PG-00250,tanggal,20 Sep 2026,2026-09-20,Normalisasi format
+pengeluaran_sintetis,PG-00253,total,Rp 15.000,15000,Konversi integer Rupiah
+pengeluaran_sintetis,PG-00262,total,Rp 37.000,37000,Konversi integer Rupiah
+pengeluaran_sintetis,PG-00263,keterangan, kemasan  ,Kemasan,Standardisasi atau label Tidak tercatat
+pengeluaran_sintetis,PG-00265,keterangan, parkir  ,Parkir,Standardisasi atau label Tidak tercatat
+pengeluaran_sintetis,PG-00272,keterangan, parkir  ,Parkir,Standardisasi atau label Tidak tercatat
+pengeluaran_sintetis,PG-00279,tanggal,26-09-2026,2026-09-26,Normalisasi format
+pengeluaran_sintetis,PG-00291,total,57.5 rb,57500,Konversi integer Rupiah
+pengeluaran_sintetis,PG-00294,tanggal,29/09/2026,2026-09-29,Normalisasi format
+pengeluaran_sintetis,PG-00298,tanggal,2026/09/30,2026-09-30,Normalisasi format
+pengeluaran_sintetis,PG-00299,total,Rp 22.000,22000,Konversi integer Rupiah
+pengeluaran_sintetis,PG-00326,tanggal,5 Okt 2026,2026-10-05,Normalisasi format
+pengeluaran_sintetis,PG-00329,total,41.5 rb,41500,Konversi integer Rupiah
+pengeluaran_sintetis,PG-00335,total,Rp 30.000,30000,Konversi integer Rupiah
+pengeluaran_sintetis,PG-00360,tanggal,2026/10/12,2026-10-12,Normalisasi format
+pengeluaran_sintetis,PG-00379,tanggal,16 Okt 2026,2026-10-16,Normalisasi format
+pengeluaran_sintetis,PG-00388,total, 24000 ,24000,Konversi integer Rupiah
+pengeluaran_sintetis,PG-00390,total, 14000 ,14000,Konversi integer Rupiah
+pengeluaran_sintetis,PG-00407,total, 36500 ,36500,Konversi integer Rupiah
+pengeluaran_sintetis,PG-00411,total,21.500,21500,Konversi integer Rupiah
+pengeluaran_sintetis,PG-00421,tanggal,2026/10/23,2026-10-23,Normalisasi format
+pengeluaran_sintetis,PG-00437,keterangan, sapi  ,Sapi,Standardisasi atau label Tidak tercatat
+pengeluaran_sintetis,PG-00441,keterangan, beras  ,Beras,Standardisasi atau label Tidak tercatat
+pengeluaran_sintetis,PG-00447,total,2.500,2500,Konversi integer Rupiah
+pengeluaran_sintetis,PG-00451,total,7.500,7500,Konversi integer Rupiah
+pengeluaran_sintetis,PG-00458,total,Rp 9.500,9500,Konversi integer Rupiah
+pengeluaran_sintetis,PG-00459,total, 13000 ,13000,Konversi integer Rupiah
+pengeluaran_sintetis,PG-00460,total,1.000,1000,Konversi integer Rupiah
+pengeluaran_sintetis,PG-00462,total,28.000,28000,Konversi integer Rupiah
+penjualan_primer,AS-001,total,10.000,10000,Normalisasi Rupiah
+penjualan_primer,AS-002,total,11.000,11000,Normalisasi Rupiah
+penjualan_primer,AS-003,total,11.000,11000,Normalisasi Rupiah
+penjualan_primer,AS-004,total,40.000,40000,Normalisasi Rupiah
+penjualan_primer,AS-005,total,80.000,80000,Normalisasi Rupiah
+penjualan_primer,AS-006,total,25.000,25000,Normalisasi Rupiah
+penjualan_primer,AS-007,total,17.000,17000,Normalisasi Rupiah
+penjualan_primer,AS-008,total,17.000,17000,Normalisasi Rupiah
+penjualan_primer,AS-009,total,17.000,17000,Normalisasi Rupiah
+penjualan_primer,AS-010,total,42.000,42000,Normalisasi Rupiah
+penjualan_primer,AS-011,total,15.000,15000,Normalisasi Rupiah
+pengeluaran_primer,AG-001,total,28,28000,Normalisasi Rupiah; skala ribuan asumsi sumber
+pengeluaran_primer,AG-002,total,20,20000,Normalisasi Rupiah; skala ribuan asumsi sumber
+pengeluaran_primer,AG-003,total,46,46000,Normalisasi Rupiah; skala ribuan asumsi sumber
+pengeluaran_primer,AG-004,total,35,35000,Normalisasi Rupiah; skala ribuan asumsi sumber
+pengeluaran_primer,AG-005,total,32,32000,Normalisasi Rupiah; skala ribuan asumsi sumber
+pengeluaran_primer,AG-006,total,10,10000,Normalisasi Rupiah; skala ribuan asumsi sumber
+pengeluaran_primer,AG-007,total,13.5,13500,Normalisasi Rupiah; skala ribuan asumsi sumber
+pengeluaran_primer,AG-008,total,4,4000,Normalisasi Rupiah; skala ribuan asumsi sumber
+pengeluaran_primer,AG-009,total,1,1000,Normalisasi Rupiah; skala ribuan asumsi sumber
+pengeluaran_primer,AG-010,total,7,7000,Normalisasi Rupiah; skala ribuan asumsi sumber
+pengeluaran_primer,AG-011,total,"24,5",24500,Normalisasi Rupiah; skala ribuan asumsi sumber
+pengeluaran_primer,AG-012,total,28,28000,Normalisasi Rupiah; skala ribuan asumsi sumber
+pengeluaran_primer,AG-013,total,20,20000,Normalisasi Rupiah; skala ribuan asumsi sumber
+penjualan_primer,AS-001,nama_pembeli,Shoopee,Shopee,Standardisasi ejaan kanal; jenis layanan tidak dipastikan
+penjualan_primer,AS-011,nama_pembeli,Shopee,Shopee,Standardisasi ejaan kanal; jenis layanan tidak dipastikan

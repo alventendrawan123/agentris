@@ -1,0 +1,24 @@
+﻿id_menu,kategori,nama_menu,harga
+M001,Soto,Soto ayam,10000
+M002,Soto,Soto ayam pisah,13000
+M003,Soto,Soto sapi,14000
+M004,Soto,Soto sapi pisah,16000
+M005,Soto,Soto ayam bungkus + nasi,12000
+M006,Soto,Soto daging bungkus + nasi,17000
+M007,Penyetan,Nila sambal,17000
+M008,Penyetan,Ayam sambal,17000
+M009,Penyetan,Pecel lele,13000
+M010,Nasi Goreng,Nasi goreng teri hijau,20000
+M011,Nasi Goreng,Nasi goreng telur,15000
+M012,Minuman,Teh es,3000
+M013,Minuman,Teh panas,3000
+M014,Minuman,Jeruk es,3000
+M015,Minuman,Jeruk panas,3000
+M016,Donat,Keju,7000
+M017,Donat,Choco crunchy,7000
+M018,Donat,Meses klasik,6000
+M019,Donat,Coklat kacang,6000
+M020,Donat,Coklat strawberry,6000
+M021,Donat,Tiramisu,6000
+M022,Donat,Kacang halus,6000
+M023,Donat,Donat polos / gula halus,5500

@@ -1,0 +1,27 @@
+pemeriksaan,lulus
+Penjualan: tidak kosong,True
+Penjualan: kolom wajib terisi,True
+Penjualan: tidak ada duplikat identik,True
+Penjualan: ID baris unik,True
+Penjualan: tanggal ISO valid,True
+Penjualan: periode Agustus–Oktober 2026,True
+Pengeluaran: tidak kosong,True
+Pengeluaran: kolom wajib terisi,True
+Pengeluaran: tidak ada duplikat identik,True
+Pengeluaran: ID baris unik,True
+Pengeluaran: tanggal ISO valid,True
+Pengeluaran: periode Agustus–Oktober 2026,True
+Penjualan: bilangan bulat positif,True
+Pengeluaran: nominal bulat positif,True
+Menu: seluruh nama ada dalam referensi,True
+Harga: sesuai referensi,True
+Subtotal: jumlah × harga,True
+Satu tanggal per transaksi,True
+Satu pembeli per transaksi,True
+Total transaksi konsisten,True
+Total transaksi = jumlah subtotal,True
+penjualan_sintetis: rekonsiliasi ID raw,True
+penjualan_sintetis: alasan karantina tersedia,True
+pengeluaran_sintetis: rekonsiliasi ID raw,True
+pengeluaran_sintetis: alasan karantina tersedia,True
+ID detail raw nonkosong tetap terlacak,True
