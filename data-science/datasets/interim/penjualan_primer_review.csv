@@ -1,12 +1,12 @@
-no,tanggal,nama_pembeli,jenis_makanan,total,tanggal_asli,status_review
-AS-001,,Shopee,,10000,Senin 07 sept,Perlu konfirmasi tanggal lengkap dan rincian menu
-AS-002,,Pembeli P01,,11000,Senin 07 sept,Perlu konfirmasi tanggal lengkap dan rincian menu
-AS-003,,Pembeli P02,,11000,Senin 07 sept,Perlu konfirmasi tanggal lengkap dan rincian menu
-AS-004,,Stpn,,40000,Senin 07 sept,Perlu konfirmasi tanggal lengkap dan rincian menu
-AS-005,,Pembeli P03,,80000,Senin 07 sept,Perlu konfirmasi tanggal lengkap dan rincian menu
-AS-006,,Pembeli P04,,25000,Senin 07 sept,Perlu konfirmasi tanggal lengkap dan rincian menu
-AS-007,,Ojek,,17000,Senin 07 sept,Perlu konfirmasi tanggal lengkap dan rincian menu
-AS-008,,Ojek,,17000,Senin 07 sept,Perlu konfirmasi tanggal lengkap dan rincian menu
-AS-009,,Pembeli P05,,17000,Senin 07 sept,Perlu konfirmasi tanggal lengkap dan rincian menu
-AS-010,,Pembeli P06,,42000,Senin 07 sept,Perlu konfirmasi tanggal lengkap dan rincian menu
-AS-011,,Shopee,,15000,Senin 07 sept,Perlu konfirmasi tanggal lengkap dan rincian menu
+no,tanggal,nama_pembeli,jenis_makanan,total,tanggal_asli,status_review,sumber_data
+AS-001,,Shopee,,10000,Senin 07 sept,Perlu konfirmasi tanggal lengkap dan rincian menu,primer
+AS-002,,Pembeli P01,,11000,Senin 07 sept,Perlu konfirmasi tanggal lengkap dan rincian menu,primer
+AS-003,,Pembeli P02,,11000,Senin 07 sept,Perlu konfirmasi tanggal lengkap dan rincian menu,primer
+AS-004,,Stpn,,40000,Senin 07 sept,Perlu konfirmasi tanggal lengkap dan rincian menu,primer
+AS-005,,Pembeli P03,,80000,Senin 07 sept,Perlu konfirmasi tanggal lengkap dan rincian menu,primer
+AS-006,,Pembeli P04,,25000,Senin 07 sept,Perlu konfirmasi tanggal lengkap dan rincian menu,primer
+AS-007,,Ojek,,17000,Senin 07 sept,Perlu konfirmasi tanggal lengkap dan rincian menu,primer
+AS-008,,Ojek,,17000,Senin 07 sept,Perlu konfirmasi tanggal lengkap dan rincian menu,primer
+AS-009,,Pembeli P05,,17000,Senin 07 sept,Perlu konfirmasi tanggal lengkap dan rincian menu,primer
+AS-010,,Pembeli P06,,42000,Senin 07 sept,Perlu konfirmasi tanggal lengkap dan rincian menu,primer
+AS-011,,Shopee,,15000,Senin 07 sept,Perlu konfirmasi tanggal lengkap dan rincian menu,primer

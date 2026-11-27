@@ -25,3 +25,5 @@ penjualan_sintetis: alasan karantina tersedia,True
 pengeluaran_sintetis: rekonsiliasi ID raw,True
 pengeluaran_sintetis: alasan karantina tersedia,True
 ID detail raw nonkosong tetap terlacak,True
+Penjualan: label sumber data valid,True
+Pengeluaran: label sumber data valid,True
