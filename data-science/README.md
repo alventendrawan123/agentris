@@ -27,6 +27,10 @@ Data bersih mencakup 1.148 nota penjualan dan 457 catatan pengeluaran. Laporan m
 
 Sumber primer terdiri dari 11 entri pemasukan dan 13 entri pengeluaran dari catatan WhatsApp, dengan total acuan masing-masing Rp285.000 dan Rp269.000. Tanggal lengkap dan rincian menu per penjualan belum cukup untuk rekap aktual pada periode yang sama. Data primer disimpan terpisah dari CSV simulasi.
 
+## Exploratory Data Analysis
+
+Notebook 04 memeriksa struktur data, cakupan tanggal, distribusi, dan hubungan antarvariabel. Aturan IQR menandai 55 nota penjualan dan 11 pengeluaran simulasi. Nilai tersebut ditinjau berdasarkan jumlah unit dan jenis belanja, lalu tetap dipakai dalam rekap. [Notebook EDA](notebooks/04_exploratory_data_analysis.ipynb).
+
 ## Analisis dan rekomendasi untuk warung
 
 Tabel berikut merangkum hasil simulasi. Selisih menunjukkan uang masuk dikurangi uang keluar yang tercatat.
@@ -39,7 +43,7 @@ Tabel berikut merangkum hasil simulasi. Selisih menunjukkan uang masuk dikurangi
 
 Pada data uji, jumlah tertinggi adalah 20 nota sehari pada 7, 10, 11, dan 16 Oktober 2026. Pada bulan yang sama, soto ayam menempati posisi pertama dengan 115 unit terjual. Angka ini menjelaskan cara membaca rekap. Hasil penjualan warung perlu dihitung dari transaksi nyata yang lengkap.
 
-Saran untuk Pak Tommy adalah mencatat tanggal dan nominal pemasukan serta belanja secara rutin, menyimpan nama menu dan jumlahnya pada setiap nota, dan mencatat hari tutup. Setelah catatan nyata cukup lengkap, rekap menu dapat membantu menyiapkan stok bahan, sedangkan jumlah nota per hari bisa membantu menyusun jadwal persiapan. [Notebook analisis dan rekomendasi](notebooks/04_eda_analisis_dan_rekomendasi.ipynb).
+Saran untuk Pak Tommy adalah mencatat tanggal dan nominal pemasukan serta belanja secara rutin, menyimpan nama menu dan jumlahnya pada setiap nota, dan mencatat hari tutup. Setelah catatan nyata cukup lengkap, rekap menu dapat membantu menyiapkan stok bahan, sedangkan jumlah nota per hari bisa membantu menyusun jadwal persiapan. [Notebook analisis dan rekomendasi](notebooks/05_analisis_dan_rekomendasi.ipynb).
 
 ## Cara menjalankan
 
@@ -49,16 +53,17 @@ Dari folder akar repo, aktifkan lingkungan Python dan pasang dependensi.
 python -m pip install -r data-science/requirements.txt
 ```
 
-Buka folder `data-science/notebooks` di VS Code atau Jupyter. Pakai kernel dari lingkungan Python yang sama, lalu pilih Run All pada notebook 04. CSV bersih sudah tersedia di `datasets/processed`. Ubah `BULAN` untuk memilih bulan analisis menu.
+Buka folder `data-science/notebooks` di VS Code atau Jupyter. Pakai kernel dari lingkungan Python yang sama, lalu pilih Run All pada notebook 04 atau 05. Keduanya membaca langsung CSV bersih di `datasets/processed`. Di notebook 05, `BULAN` menentukan bulan untuk peringkat menu.
 
 | Notebook | Isi |
 | :--- | :--- |
 | [01 · Pengumpulan dan pemeriksaan awal](notebooks/01_data_collection_assessment.ipynb) | Sumber, struktur, dan keterbatasan data. |
 | [02 · Pembersihan dan transformasi](notebooks/02_data_cleaning_transformation.ipynb) | Normalisasi, penanganan duplikasi, dan ekspor kandidat. |
 | [03 · Validasi data](notebooks/03_data_validation.ipynb) | Pemeriksaan kandidat dan ekspor CSV yang lulus setelah verifikasi log perubahan dan karantina. |
-| [04 · Analisis dan rekomendasi](notebooks/04_eda_analisis_dan_rekomendasi.ipynb) | Lima pertanyaan bisnis, tiga grafik Seaborn, uji rekap, dan saran untuk warung. |
+| [04 · Exploratory Data Analysis](notebooks/04_exploratory_data_analysis.ipynb) | Profil data, distribusi, IQR, dan pola penjualan harian. |
+| [05 · Analisis dan rekomendasi](notebooks/05_analisis_dan_rekomendasi.ipynb) | Lima pertanyaan bisnis, tiga grafik Seaborn, uji rekap, dan saran untuk warung. |
 
-Jalankan 01–03 berurutan jika ingin mengulang proses pengolahan data. Setelah mengubah data atau aturan pembersihan, periksa ulang laporan validasi sebelum memakai CSV hasilnya di notebook 04.
+Jalankan 01–03 berurutan jika ingin mengulang proses pengolahan data. Setelah mengubah data atau aturan pembersihan, periksa ulang laporan validasi sebelum memakai CSV hasilnya di notebook 04 dan 05.
 
 ## Direktori dan acuan
 
