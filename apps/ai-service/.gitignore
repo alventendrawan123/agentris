@@ -3,3 +3,12 @@ venv/
 __pycache__/
 *.py[cod]
 .env
+!.env.example
+
+# artefak model (dibagikan lewat Google Drive, bukan Git)
+models/*.joblib
+models/*.pkl
+
+# alat bantu
+.pytest_cache/
+.ipynb_checkpoints/
